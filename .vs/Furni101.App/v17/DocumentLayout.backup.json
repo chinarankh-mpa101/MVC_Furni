@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\wwwroot\\assets\\images\\person_4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\wwwroot\\assets\\images\\person_4.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\wwwroot\\assets\\images\\person-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\wwwroot\\assets\\images\\person-1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\contexts\\furnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\contexts\\furnidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\migrations\\20251222045816_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\migrations\\20251222045816_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\furni101.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\furni101.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "person-1.jpg - Bitmap [324x324, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\wwwroot\\assets\\images\\person-1.jpg",
+              "RelativeDocumentMoniker": "Furni101.App\\wwwroot\\assets\\images\\person-1.jpg",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\wwwroot\\assets\\images\\person-1.jpg - Bitmap [324x324, 24 bit, JPG]",
+              "RelativeToolTip": "Furni101.App\\wwwroot\\assets\\images\\person-1.jpg - Bitmap [324x324, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-22T06:41:49.201Z",
+              "EditorCaption": " - Bitmap [324x324, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person_4.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\wwwroot\\assets\\images\\person_4.jpg",
+              "RelativeDocumentMoniker": "Furni101.App\\wwwroot\\assets\\images\\person_4.jpg",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\wwwroot\\assets\\images\\person_4.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "RelativeToolTip": "Furni101.App\\wwwroot\\assets\\images\\person_4.jpg - Bitmap [800x800, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-22T06:41:46.92Z",
+              "EditorCaption": " - Bitmap [800x800, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Furni101.App\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:15:26.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T06:14:44.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Models\\Employee.cs",
+              "RelativeToolTip": "Furni101.App\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:07:28.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Furni101.App\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:53:11.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:30:09.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAKMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:25:59.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:23:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Furni101.App\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T05:14:22.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T04:40:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:25:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FurniDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Contexts\\FurniDbContext.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Contexts\\FurniDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Contexts\\FurniDbContext.cs",
+              "RelativeToolTip": "Furni101.App\\Contexts\\FurniDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:42:57.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:26:07.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Furni101.App\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Furni101.App\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-22T05:26:09.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Program.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Program.cs",
+              "RelativeToolTip": "Furni101.App\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:38:07.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Models\\Product.cs",
+              "RelativeToolTip": "Furni101.App\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:41:22.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Furni101.App\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Furni101.App\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T05:09:47.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251222045816_product.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Migrations\\20251222045816_product.cs",
+              "RelativeDocumentMoniker": "Furni101.App\\Migrations\\20251222045816_product.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Migrations\\20251222045816_product.cs",
+              "RelativeToolTip": "Furni101.App\\Migrations\\20251222045816_product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T04:58:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Furni101.App",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Furni101.App.csproj",
+              "RelativeDocumentMoniker": "Furni101.App\\Furni101.App.csproj",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Furni101.App.csproj",
+              "RelativeToolTip": "Furni101.App\\Furni101.App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-22T05:09:37.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\appsettings.json",
+              "RelativeDocumentMoniker": "Furni101.App\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\appsettings.json",
+              "RelativeToolTip": "Furni101.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-22T04:48:47.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
