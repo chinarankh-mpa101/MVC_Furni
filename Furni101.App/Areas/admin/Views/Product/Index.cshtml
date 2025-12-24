@@ -16,6 +16,7 @@
 					<th scope="col">Id</th>
 					<th scope="col">Name</th>
 					<th scope="col">Price</th>
+					<th scope="col">IsDeleted</th>
 					<th scope="col">ImageUrl</th>
 					<th scope="col">Actions</th>
 				</tr>
@@ -27,10 +28,30 @@
 						<th scope="row">@feature.Id</th>
 						<td>@feature.Name</td>
 						<td>@feature.Price</td>
+						@if (@feature.IsDeleted==true){
+								<td style="border: 1px solid black; padding:8px;">Deactive</td>
+							}
+							else
+							{
+						<td style="border: 1px solid black; padding:8px;">Active</td>
+							}
+
+					
+
 						<td> <img src="~/assets/images//@feature.ImageUrl" alt="Alternate Text" /> </td>
 						<td>
-							<a class="btn btn-warning">Update</a>
+							<a class="btn btn-warning" asp-action="Update" asp-route-id="@feature.Id" >Update</a>
 							<a asp-action="Delete" asp-route-id="@feature.Id" class="btn btn-danger">Delete</a>
+							<a asp-action="SoftDelete" asp-route-id="@feature.Id" class="btn btn-danger">
+								@if (feature.IsDeleted == true)
+								{
+									<span>Recover</span>
+								}
+								else
+								{
+									<span>Soft Delete</span>
+								}
+							</a>
 						</td>
 					</tr>
 				}

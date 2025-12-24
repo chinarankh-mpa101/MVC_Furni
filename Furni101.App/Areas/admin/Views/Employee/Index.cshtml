@@ -1,0 +1,44 @@
+﻿@using Furni101.App.Models
+@model List<Employee>
+
+<div class="container">
+	<div class="row">
+
+		<div class="row">
+			<div class="col-2">
+				<a class="btn btn-success" asp-controller="Product" asp-action="Create">Create</a>
+			</div>
+
+		</div>
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">Id</th>
+					<th scope="col">FirstName</th>
+					<th scope="col">LastName</th>
+					<th scope="col">Position</th>
+					<th scope="col">Description</th>
+					<th scope="col">ImageUrl</th>
+					<th scope="col">Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (Employee feature in Model)
+				{
+					<tr>
+						<th scope="row">@feature.Id</th>
+						<td>@feature.FirstName</td>
+						<td>@feature.LastName</td>
+						<td>@feature.Position</td>
+						<td>@feature.Description</td>
+						<td> <img src="~/assets/images//@feature.ImageUrl" alt="Alternate Text" /> </td>
+						<td>
+							<a class="btn btn-warning" asp-action="Update" asp-route-id="@feature.Id">Update</a>
+							<a asp-action="Delete" asp-route-id="@feature.Id" class="btn btn-danger">Delete</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>
