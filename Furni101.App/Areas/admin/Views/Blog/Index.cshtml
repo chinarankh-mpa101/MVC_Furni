@@ -1,0 +1,42 @@
+﻿@using Furni101.App.Models
+@model List<Blog>
+
+<div class="container">
+	<div class="row">
+
+		<div class="row">
+			<div class="col-2">
+				<a class="btn btn-success" asp-controller="Blog" asp-action="Create">Create</a>
+			</div>
+
+		</div>
+		<table class="table table-striped">
+			<thead>
+				<tr>
+					<th scope="col">Id</th>
+					<th scope="col">Title</th>
+					<th scope="col">PostedDate</th>
+					<th scope="col">Employee Name</th>
+					<th scope="col">ImageUrl</th>
+					<th scope="col">Actions</th>
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (Blog blog in Model)
+				{
+					<tr>
+						<th scope="row">@blog.Id</th>
+						<td>@blog.Title</td>
+						<td>@blog.postedDate</td>
+						<td>@blog.Employee.FirstName</td>
+						<td> <img src="~/assets/images//@blog.ImageUrl" alt="Alternate Text" /> </td>
+						<td>
+							<a class="btn btn-warning" asp-action="Update" asp-route-id="@blog.Id">Update</a>
+							<a asp-action="Delete" asp-route-id="@blog.Id" class="btn btn-danger">Delete</a>
+						</td>
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+</div>

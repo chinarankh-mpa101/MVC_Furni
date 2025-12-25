@@ -105,16 +105,5 @@ namespace Furni101.App.Areas.admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-
-
-
-
-
-
-
-
-
-
-
     }
 }
