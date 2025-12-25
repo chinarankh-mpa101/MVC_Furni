@@ -9,7 +9,7 @@
         public string ImageName {  get; set; }
         public string ImageUrl { get; set; }
 
-        public Employee Employee { get; set; }
+        public Employee? Employee { get; set; }
         public int EmployeeId { get; set; }
     }
 }

@@ -16,6 +16,13 @@
 			</div>
 
 			<div class="form-group">
+				<label for="ImageName">ImageName</label>
+				<input asp-for="ImageName" class="form-control" id="ImageName" placeholder="ImageName">
+				<span class="text-danger" asp-validation-for="ImageName"></span>
+
+			</div>
+
+			<div class="form-group">
 				<label for="imagePath">ImageUrl</label>
 				<input asp-for="ImageUrl" class="form-control" id="ImageUrl" placeholder="ImageUrl">
 				<span class="text-danger" asp-validation-for="ImageUrl"></span>

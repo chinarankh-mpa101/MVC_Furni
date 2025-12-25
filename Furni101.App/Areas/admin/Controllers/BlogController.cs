@@ -10,7 +10,7 @@ namespace Furni101.App.Areas.admin.Controllers
     {
         public async Task<IActionResult> Index()
         {
-            var blogs = await _context.Blogs.Include(x=>x.Employee).ToListAsync();
+            var blogs = await _context.Blogs.Include(x => x.Employee).ToListAsync();
             return View(blogs);
         }
 
@@ -30,7 +30,7 @@ namespace Furni101.App.Areas.admin.Controllers
             if (!ModelState.IsValid)
             {
                 var employees = await _context.Employees.ToListAsync();
-                ViewBag.Categories = employees;
+                ViewBag.Employees = employees;
                 return View();
             }
             var isExistEmployee = await _context.Employees.AnyAsync(c => c.Id == blog.EmployeeId);
@@ -38,8 +38,8 @@ namespace Furni101.App.Areas.admin.Controllers
             {
                 var employees = await _context.Employees.ToListAsync();
                 ViewBag.Employees = employees;
-                ModelState.AddModelError("CategoryId", "Bele bir category movcud deyil");
-                return View(blog);
+                ModelState.AddModelError("EmployeeId", "Bele bir category movcud deyil");
+                return View();
             }
             await _context.Blogs.AddAsync(blog);
             await _context.SaveChangesAsync();

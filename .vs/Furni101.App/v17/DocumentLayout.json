@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\views\\blog\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|solutionrelative:furni101.app\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D2DB971-3085-4DE4-8B80-7BABC2F2BDFC}|Furni101.App\\Furni101.App.csproj|c:\\users\\student\\desktop\\form-reservation\\furni101.app\\furni101.app\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -183,44 +183,43 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-22T04:41:22.829Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Views\\Blog\\Create.cshtml",
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Views\\Blog\\Create.cshtml",
               "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Views\\Blog\\Create.cshtml",
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Blog\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-25T06:17:04.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Views\\Blog\\Index.cshtml",
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Views\\Blog\\Index.cshtml",
               "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Views\\Blog\\Index.cshtml",
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Blog\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-25T05:54:54.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "Furni101.App\\Models\\Blog.cs",
               "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Models\\Blog.cs",
               "RelativeToolTip": "Furni101.App\\Models\\Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T05:07:52.783Z",
               "EditorCaption": ""
@@ -235,12 +234,11 @@
               "RelativeToolTip": "Furni101.App\\Views\\Blog\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-25T05:12:01.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T05:12:01.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "BlogController.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Controllers\\BlogController.cs",
               "RelativeDocumentMoniker": "Furni101.App\\Controllers\\BlogController.cs",
@@ -248,12 +246,11 @@
               "RelativeToolTip": "Furni101.App\\Controllers\\BlogController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-25T05:16:58.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-25T05:16:58.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Controllers\\ProductController.cs",
@@ -261,8 +258,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAcwGEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T05:14:49.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T05:14:49.969Z"
             },
             {
               "$type": "Document",
@@ -272,14 +268,14 @@
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Controllers\\BlogController.cs",
               "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Controllers\\BlogController.cs",
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-25T05:53:03.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Controllers\\EmployeeController.cs",
@@ -287,12 +283,11 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-24T05:00:07.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T05:00:07.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Views\\Product\\Index.cshtml",
@@ -300,12 +295,11 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAABUAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T05:06:19.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T05:06:19.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Furni101.App\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
@@ -313,8 +307,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAO8AAAAAAAAAAAAlwAQBAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T05:06:50.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T05:06:50.179Z"
             },
             {
               "$type": "Document",
@@ -326,8 +319,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T05:27:36.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T05:27:36.645Z"
             },
             {
               "$type": "Document",
@@ -339,8 +331,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwCsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T04:58:18.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T04:58:18.257Z"
             },
             {
               "$type": "Document",
@@ -352,8 +343,7 @@
               "RelativeToolTip": "Furni101.App\\Controllers\\EmployeeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:15:26.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T06:15:26.199Z"
             },
             {
               "$type": "Document",
@@ -365,8 +355,7 @@
               "RelativeToolTip": "Furni101.App\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T05:14:22.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:14:22.858Z"
             },
             {
               "$type": "Document",
@@ -378,8 +367,7 @@
               "RelativeToolTip": "Furni101.App\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T05:53:11.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:53:11.773Z"
             },
             {
               "$type": "Document",
@@ -391,8 +379,7 @@
               "RelativeToolTip": "Furni101.App\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAE4AAAAAAAAAAAAAAGcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T06:14:44.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T06:14:44.088Z"
             },
             {
               "$type": "Document",
@@ -404,8 +391,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Employee\\Update.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T04:59:04.753Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T04:59:04.753Z"
             },
             {
               "$type": "Document",
@@ -417,8 +403,7 @@
               "RelativeToolTip": "Furni101.App\\Models\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T06:07:28.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T06:07:28.619Z"
             },
             {
               "$type": "Document",
@@ -430,8 +415,7 @@
               "RelativeToolTip": "Furni101.App\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-22T04:48:47.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:48:47.833Z"
             },
             {
               "$type": "Document",
@@ -443,8 +427,7 @@
               "RelativeToolTip": "Furni101.App\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T04:40:49.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:40:49.989Z"
             },
             {
               "$type": "Document",
@@ -456,8 +439,7 @@
               "RelativeToolTip": "Furni101.App\\Contexts\\FurniDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T04:42:57.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:42:57.757Z"
             },
             {
               "$type": "Document",
@@ -469,8 +451,7 @@
               "RelativeToolTip": "Furni101.App\\Migrations\\20251222045816_product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T04:58:16.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T04:58:16.404Z"
             },
             {
               "$type": "Document",
@@ -482,8 +463,7 @@
               "RelativeToolTip": "Furni101.App\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACsAAAAAAAAAAAAAAKMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T05:25:59.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:25:59.265Z"
             },
             {
               "$type": "Document",
@@ -495,8 +475,7 @@
               "RelativeToolTip": "Furni101.App\\Views\\Product\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-22T05:23:34.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:23:34.881Z"
             },
             {
               "$type": "Document",
@@ -508,8 +487,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T05:10:00.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T05:10:00.985Z"
             },
             {
               "$type": "Document",
@@ -521,8 +499,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T04:58:43.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T04:58:43.897Z"
             },
             {
               "$type": "Document",
@@ -534,8 +511,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Product\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T05:16:07.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T05:16:07.724Z"
             },
             {
               "$type": "Document",
@@ -547,8 +523,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\Product\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-24T04:24:44.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-24T04:24:44.599Z"
             },
             {
               "$type": "Document",
@@ -560,8 +535,7 @@
               "RelativeToolTip": "Furni101.App\\Areas\\admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-23T05:07:20.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-23T05:07:20.414Z"
             },
             {
               "$type": "Document",
@@ -680,8 +654,7 @@
               "ToolTip": "C:\\Users\\student\\Desktop\\Form-Reservation\\Furni101.App\\Furni101.App\\Furni101.App.csproj",
               "RelativeToolTip": "Furni101.App\\Furni101.App.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-22T05:09:37.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-22T05:09:37.594Z"
             }
           ]
         }
