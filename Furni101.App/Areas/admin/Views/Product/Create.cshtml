@@ -1,8 +1,9 @@
-﻿
-@model Product
+﻿@using Furni101.App.ViewModels.ProductViewModels
+
+@model ProductCreateVM
 <div class="container">
 	<div class="row">
-		<form method="post" asp-action="Create" asp-controller="Product">
+		<form method="post" asp-action="Create" asp-controller="Product" enctype="multipart/form-data">
 			<div class="form-group">
 				<label for="title">Name</label>
 				<input asp-for="Name"  class="form-control" id="name" placeholder="Name">
@@ -15,12 +16,12 @@
 
 			</div>
 
-			<div class="form-group">
+		@* 	<div class="form-group">
 				<label for="isDeleted">IsDeleted</label>
 				<input asp-for="IsDeleted" class="form-control" id="IsDeleted" placeholder="IsDeleted">
 				<span class="text-danger" asp-validation-for="IsDeleted"></span>
 
-			</div>
+			</div> *@
 			<div class="form-group">
 				<label for="imageName">ImageName</label>
 				<input asp-for="ImageName" class="form-control" id="ImageName" placeholder="ImageName">
