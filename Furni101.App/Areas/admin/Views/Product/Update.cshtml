@@ -1,7 +1,8 @@
-﻿@model Product
+﻿@using Furni101.App.ViewModels.ProductViewModels
+@model ProductUpdateVM
 <div class="container">
 	<div class="row">
-		<form method="post" asp-action="Update" asp-controller="Product">
+		<form method="post" asp-action="Update" asp-controller="Product" enctype="multipart/form-data">
 			<div class="form-group">
 				<label for="title">Name</label>
 				<input asp-for="Name" class="form-control" id="name" placeholder="Name">
@@ -23,9 +24,9 @@
 
 
 			<div class="form-group">
-				<label for="imageUrl">ImageUrl</label>
-				<input asp-for="ImageUrl" class="form-control" id="imageUrl" placeholder="ImageUrl">
-				<span class="text-danger" asp-validation-for="ImageUrl"></span>
+				<label for="MainImage">MainImage</label>
+				<input asp-for="MainImage" class="form-control" id="MainImage" placeholder="MainImage">
+				<span class="text-danger" asp-validation-for="MainImage"></span>
 			</div>
 			<button type="submit" class="btn btn-primary">Submit</button>
 			<a asp-action="Index" class="btn btn-secondary">Cancel</a>

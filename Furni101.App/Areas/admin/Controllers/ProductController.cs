@@ -1,4 +1,5 @@
 ﻿using Furni101.App.Contexts;
+using Furni101.App.Helpers;
 using Furni101.App.Models;
 using Furni101.App.ViewModels.ProductViewModels;
 using Microsoft.AspNetCore.Mvc;
@@ -95,29 +96,61 @@ namespace Furni101.App.Areas.admin.Controllers
             {
                 return NotFound();
             }
-            return View(product);
+            ProductUpdateVM vm = new ProductUpdateVM()
+            {
+                Id = product.Id,
+                Name = product.Name,
+                Price = product.Price,
+                ImageName = product.ImageName,
+                MainImagePath = product.ImageUrl
+            };
+            return View(vm);
 
         }
 
         [HttpPost]
-        public async Task<IActionResult> Update(Product product)
+        public async Task<IActionResult> Update(ProductUpdateVM vm)
         {
             if (!ModelState.IsValid)
             {
                 return View();
             }
+            if (!vm.MainImage?.CheckType() ?? false)
+            {
+                ModelState.AddModelError("MainImage", "Yalniz sekil formatinda data daxil edin");
+                return View(vm);
+            }
 
-            var existProduct = await _context.Products.FindAsync(product.Id);
+            if (!vm.MainImage?.CheckSize(2) ?? false)
+            {
+                ModelState.AddModelError("MainImage", "Sekil olcusu maksimum 2MB ola biler");
+            }
+
+
+
+            var existProduct = await _context.Products.FindAsync(vm.Id);
             if (existProduct is null)
             {
                 return BadRequest();
             }
 
-            existProduct.Name = product.Name;
-            existProduct.Price = product.Price;
-            existProduct.ImageName = product.ImageName;
-            existProduct.IsDeleted = product.IsDeleted;
-            existProduct.ImageUrl = product.ImageUrl;
+
+
+            existProduct.Name = vm.Name;
+            existProduct.Price=vm.Price;
+            existProduct.ImageName = vm.ImageName;
+            //existProduct.ImageUrl = vm.ImageUrl;
+
+            string folderPath = Path.Combine(_enviroment.WebRootPath, "assets", "images");
+
+            if (vm.MainImage is not null)
+            {
+                string newMainImagePath = await vm.MainImage.SaveFileAsync(folderPath);
+                string existMainImagePath = Path.Combine(folderPath, existProduct.ImageUrl);
+                ExtensionMethods.DeleteFile(existMainImagePath);
+                existProduct.ImageUrl = newMainImagePath;
+            }
+
             _context.Products.Update(existProduct);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
